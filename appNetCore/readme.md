@@ -1,0 +1,1 @@
+﻿Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 3.1.7
